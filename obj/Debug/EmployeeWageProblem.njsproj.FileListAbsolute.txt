@@ -1,0 +1,2 @@
+C:\Users\Palak Rubi\source\repos\EmployeeWageProblem\EmployeeWageProblem\obj\Debug\EmployeeWageProblem.njsproj.CoreCompileInputs.cache
+C:\Users\Palak Rubi\source\repos\EmployeeWageProblem\EmployeeWageProblem\bin\Microsoft.NodejsTools.WebRole.dll
