@@ -1,5 +1,14 @@
-console.log('Hello world');
 let isPresent = 1;
+let empWorkingHrs = 0;
+let WAGE_PER_HOUR = 20;
+let FULL_DAY_HOUR = 8;
+let empWage = 0;
 let empCheck = Math.floor(Math.random() * 10) % 2;
-empCheck == 1 ? console.log("Employee is present") : console.log("Employee is absent");
+if (empCheck == 1) {
+    var dailyWage = WAGE_PER_HOUR * FULL_DAY_HOUR;
+    console.log('Employee Wage Is : ' + dailyWage);
+}
+else {
+    console.log('Employee Is Absent');
+}
 //# sourceMappingURL=app.js.map
